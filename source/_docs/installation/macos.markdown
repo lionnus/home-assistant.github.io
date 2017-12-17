@@ -9,7 +9,7 @@ sharing: true
 footer: true
 ---
 
-[macOS](http://www.apple.com/macos/) is available by default on Apple computer. If you run a different operating system, please refer to the other section of the documentation.
+[macOS](http://www.apple.com/macos/) is available by default on an Apple computer. If you run a different operating system, please refer to the other section of the documentation.
 
 To run Home Assistant on macOS you need to install Python first. Download Python from https://www.python.org/downloads/mac-osx/ and follow the instructions of the installer.
 
